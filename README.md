@@ -207,9 +207,9 @@ The project demonstrates backend development using Django, REST APIs, database m
 
 ## 👨‍💻 Author
 
-**Sameeha Ahmad**
+**Rbiya Fatima**
 
-🔗 GitHub: https://github.com/Sameeha4
+🔗 GitHub: https://github.com/rbiyafatima3344_design
 
 ---
 
