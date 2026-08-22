@@ -111,7 +111,7 @@ The following functionality was successfully tested:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Sameeha4/CodeAlpha_EventRegistrationSystem.git
+git clone https://github.com/rbiyafatima_design/CodeAlpha_EventRegistrationSystem.git
 ```
 
 ### 2️⃣ Open the Project
